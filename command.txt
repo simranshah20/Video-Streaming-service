@@ -1,3 +1,4 @@
+Backend
 1.command to make dist folder and index.js inside it
 npx tsc
 
@@ -12,3 +13,10 @@ npm install multer
 
 5.multer types ad devDependencies
 npm -D i @types/multer
+
+
+Frontend
+1. to create a new react app
+npm create vite@latest
+
+2.to create next js appnpx create-next-app@latest
