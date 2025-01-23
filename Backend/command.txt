@@ -6,3 +6,9 @@ npx ts-node src/index.ts
 
 3. helps to excute multiples command parallelly
 npm i concurrently
+
+4.for uploading purpose
+npm install multer
+
+5.multer types ad devDependencies
+npm -D i @types/multer
