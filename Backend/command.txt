@@ -1,0 +1,8 @@
+1.command to make dist folder and index.js inside it
+npx tsc
+
+2.To start the server
+npx ts-node src/index.ts
+
+3. helps to excute multiples command parallelly
+npm i concurrently
