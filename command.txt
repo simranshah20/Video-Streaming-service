@@ -19,4 +19,5 @@ Frontend
 1. to create a new react app
 npm create vite@latest
 
-2.to create next js appnpx create-next-app@latest
+2.to create next js app
+npx create-next-app@latest
